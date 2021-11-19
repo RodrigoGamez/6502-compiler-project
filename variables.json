@@ -1,10 +1,14 @@
 {
-    "var_1": [
-        1,
-        0
-    ],
-    "var_2": [
-        2,
-        2
-    ]
+    "var_1": {
+        "value": 1,
+        "address": "0x0"
+    },
+    "var_2": {
+        "value": 2,
+        "address": "0x2"
+    },
+    "var_3": {
+        "value": 1,
+        "address": "0x4"
+    }
 }
